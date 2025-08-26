@@ -1,1 +1,2 @@
-
+Subject: S47 delays due to port congestion
+S47 notified us that container throughput at Port X is reduced for the next 3 weeks. Expect longer lead times and intermittent schedule slips.
