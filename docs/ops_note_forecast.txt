@@ -1,0 +1,9 @@
+Ops Note: Given seasonal demand uptick, suppliers with single-lane logistics may slip. S47 is flagged as high risk without additional buffers.
+EOFcat > .streamlit/config.toml <<'EOF'
+[theme]
+base="dark"
+primaryColor="#4ade80"
+backgroundColor="#0B0F19"
+secondaryBackgroundColor="#111827"
+textColor="#E5E7EB"
+font="monospace"
