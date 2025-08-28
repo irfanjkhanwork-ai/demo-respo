@@ -182,4 +182,4 @@ with right:
 
 st.divider()
 st.caption(f"Insight ID: {insight['id']}  •  Data sources: {', '.join(insight['data_lineage'])}")
-EOFEOD
+EOF
